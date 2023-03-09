@@ -495,7 +495,7 @@ body {
 
 .site-menu__sub {
   position: absolute;
-  left: -62px;
+  left: -60px;
   width: 1160px;
   display: none;
   -webkit-box-sizing: border-box;
